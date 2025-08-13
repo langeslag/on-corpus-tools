@@ -1,6 +1,6 @@
 # on-corpus-tools
 
-Processing tools for various Old English text corpora and resources. I'm still organizing the folder structure.
+Processing tools for various Old Norse text corpora and resources.
 
 ## `menota-extract.ipynb`
 
